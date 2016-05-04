@@ -34,10 +34,13 @@ nav{
     background-color: #00cc00;
 }
 
+#maintext{
+    margin: 0 0 0 40px;
+}
+
 img{
     float: right;
     margin: 0 0 10px 10px;
-    width: 300px;
 }
 
 form{
