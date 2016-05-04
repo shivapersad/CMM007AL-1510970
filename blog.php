@@ -49,7 +49,7 @@
     </header>
 
     <main class="grid-80">
-        <div>
+        <div id="maintext">
 
             <?php
 
