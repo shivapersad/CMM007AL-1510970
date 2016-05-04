@@ -30,7 +30,7 @@
             if ($_SERVER['REQUEST_METHOD'] === 'GET')
             {
         ?>
-                <form method="post">
+                <form action="<? {$_SERVER['PHP_SELF'];} ?>" method="post" id="center-align">
                     <table>
                         <tr>
                             <td>Entry Title:</td>

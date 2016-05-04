@@ -27,7 +27,7 @@
 
     <main class="grid-90">
         <div>
-            <p class="grid-50">
+            <p class="grid-50" id="maintext">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mi sem, efficitur at orci sit amet, suscipit
                 sagittis ligula. Etiam efficitur enim eget malesuada vehicula. Vestibulum hendrerit risus commodo massa
                 volutpat, id finibus eros faucibus. Nam vestibulum volutpat lacus, non commodo elit. Maecenas imperdiet nisi
