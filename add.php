@@ -71,7 +71,7 @@
 
                     if ($submitted == NULL)
                     {
-                        $submitted = "Anonynmous";
+                        $submitted = "Anonymous";
                     }
 
                     $sql = "INSERT INTO blogView VALUES (NULL,'$title','$summary','$category','$submitted')";
