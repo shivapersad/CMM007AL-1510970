@@ -55,7 +55,8 @@
                             <td><input type="text" name="submitted" id="submitted" size="54"></td>
                         </tr>
                         <tr>
-                            <td><input type="submit" value="Submit"></td>
+                            <td></td>
+                            <td id="btnRight"><input type="submit" value="Submit"></td>
                         </tr>
                     </table>
                 </form>
