@@ -1,0 +1,25 @@
+<!--
+                    <div>
+                        <label for="title">Entry Title:</label>
+                        <input type="text" name="title" id="title" required>
+                    </div>
+                    <div>
+                        <label for="summary">Entry Summary:</label>
+                        <textarea rows="5" cols="40" name="summary" id="summary" required></textarea>
+                    </div>
+                    <div>
+                        <label for="category">Category:</label>
+                        <select name="category" id="category" required>
+                            <option value="politics">Politics</option>
+                            <option value="sport">Sport</option>
+                            <option value="technology">Technology</option>
+                        </select>
+                    </div>
+                    <div>
+                        <label for="submitted">Submitted By:</label>
+                        <input type="text" name="submitted" id="submitted">
+                    </div>
+                    <div>
+                        <input type="submit" value="Submit">
+                    </div>
+                </form>-->

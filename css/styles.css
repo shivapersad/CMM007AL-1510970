@@ -3,6 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+    display: table;
 }
 
 li {
@@ -17,6 +18,7 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    margin: 0 10px 0 10px;
 }
 
 li a:hover {
@@ -26,4 +28,22 @@ li a:hover {
 img{
     float: right;
     margin: 0 0 10px 10px;
+    width: 300px;
+}
+
+form{
+    padding: 20px 20px;
+}
+
+.middle{
+    vertical-align: middle;
+    text-align: center;
+}
+
+.btnRight{
+    float: right;
+}
+
+.center{
+    margin: 0 auto;
 }
