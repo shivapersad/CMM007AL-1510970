@@ -56,7 +56,7 @@
                 while ($row = $result->fetch_array())
                 {
                     echo "<p><strong>" . $row['entryTitle'] . " by " . $row['submitter'] . "</strong></p>";
-                    echo "<p<em>" . $row['category'] . "</em></p>";
+                    echo "<p><em>" . $row['category'] . "</em></p>";
                     echo "<p> " . $row['entrySummary'] . "</p>";
                     echo "<hr>";
                 }
