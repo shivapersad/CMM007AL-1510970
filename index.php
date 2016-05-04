@@ -25,7 +25,7 @@
         </nav>
     </header>
 
-    <main class="grid-80">
+    <main class="grid-90">
         <div>
             <p class="grid-50">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam mi sem, efficitur at orci sit amet, suscipit
@@ -34,7 +34,7 @@
                 quis imperdiet elementum. Aliquam at libero odio. In ut faucibus lacus, ac lobortis tortor. Vivamus cursus
                 libero eu eros suscipit tristique. Donec a aliquet diam. Ut nec ultricies odio, vel pretium neque.
             </p>
-            <img src="assets/blog.png" class="grid-30">
+            <img src="assets/blog.png" class="grid-40">
         </div>
     </main>
 
