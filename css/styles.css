@@ -2,6 +2,10 @@ body{
     font-family: 'Roboto', sans-serif;
 }
 
+#subheading{
+    font-size: 1.2em;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
