@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>myBlog</title>
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <link rel="stylesheet" type="text/css" href="css/unsemantic-grid-responsive.css">
+    <link rel="stylesheet" type="text/css" href="../css/styles.css">
+    <link rel="stylesheet" type="text/css" href="../css/unsemantic-grid-responsive.css">
     <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
 </head>
 <body>
@@ -34,7 +34,7 @@
                 quis imperdiet elementum. Aliquam at libero odio. In ut faucibus lacus, ac lobortis tortor. Vivamus cursus
                 libero eu eros suscipit tristique. Donec a aliquet diam. Ut nec ultricies odio, vel pretium neque.
             </p>
-            <img src="assets/blog.png" class="grid-40">
+            <img src="../assets/blog.png" class="grid-40">
         </div>
     </main>
 
