@@ -23,3 +23,12 @@
                         <input type="submit" value="Submit">
                     </div>
                 </form>-->
+
+
+                CREATE TABLE `blogView` (
+                  `blogitemID` int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+                  `entryTitle` varchar(100) NOT NULL,
+                  `entrySummary` varchar(500) NOT NULL,
+                  `category` varchar(100) NOT NULL,
+                  `submitter` varchar(100) NULL
+                );
