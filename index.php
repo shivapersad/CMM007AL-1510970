@@ -15,7 +15,7 @@
         <p id="subheading">because the internet needs to know what I think</p>
 
         <nav>
-            <ul>
+            <ul id="horizontal-style">
                 <li><a href="blog.php?category=all">All Blog Items</a></li>
                 <li><a href="blog.php?category=Work">Work Items</a></li>
                 <li><a href="blog.php?category=University">University Items</a></li>
