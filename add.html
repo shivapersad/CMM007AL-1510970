@@ -29,15 +29,15 @@
             <form method="post" id="center-align">
                 <table>
                     <tr>
-                        <td>Entry Title:</td>
-                        <td><input type="text" name="title" size="54" required></td>
+                        <td><label for="title">Entry Title:</label></td>
+                        <td><input type="text" name="title" id="title" size="54" required></td>
                     </tr>
                     <tr>
-                        <td>Entry Summary:</td>
-                        <td><textarea rows="5" cols="40" name="summary" required></textarea></td>
+                        <td><label for="summary">Entry Summary:</label></td>
+                        <td><textarea rows="5" cols="40" name="summary" id="summary" required></textarea></td>
                     </tr>
                     <tr>
-                        <td>Category:</td>
+                        <td><label for="category">Category:</label></td>
                         <td>
                             <select name="category" id="category" required>
                                 <option value="Work">Work</option>
@@ -47,8 +47,8 @@
                         </td>
                     </tr>
                     <tr>
-                        <td>Submitted By:</td>
-                        <td><input type="text" name="submitted" size="54"></td>
+                        <td><label for="submitted">Submitted By:</label></td>
+                        <td><input type="text" name="submitted" id="submitted" size="54"></td>
                     </tr>
                     <tr>
                         <td><input type="submit" value="Submit"></td>
