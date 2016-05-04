@@ -34,7 +34,7 @@
                     <table>
                         <tr>
                             <td><label for="title">Entry Title:</label></td>
-                            <td><input type="text" name="title" id="title" size="54" required></td>
+                            <td><input type="text" name="title" id="title" size="40" required></td>
                         </tr>
                         <tr>
                             <td><label for="summary">Entry Summary:</label></td>
@@ -52,7 +52,7 @@
                         </tr>
                         <tr>
                             <td><label for="submitted">Submitted By:</label></td>
-                            <td><input type="text" name="submitted" id="submitted" size="54"></td>
+                            <td><input type="text" name="submitted" id="submitted" size="40"></td>
                         </tr>
                         <tr>
                             <td></td>
